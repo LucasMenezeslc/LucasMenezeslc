@@ -1,5 +1,5 @@
 # 🛡️ Lucas Menezes:
-⚡ Co Organizer Community Flutter Brasil 
+⚡ Co Founder Community Flutter Brasil 
 - https://flutterbrasil.com.br/
 
 
